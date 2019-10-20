@@ -1,0 +1,64 @@
+
+.Bodie{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width:950px;
+    display:flex;
+    flex-wrap: wrap;
+    border-bottom:4px solid grey;
+    padding-bottom: 2em;
+    margin-bottom: 6px;
+    
+}
+.Front,.Name{
+    margin:0px;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.Header_Img{
+    height: 80px;
+    width: 130px;
+
+}
+.Header_Img2{
+    margin: auto;
+    display: block;
+    height: 541px;
+}
+.Header_text2{
+    margin: 0px;
+}
+
+.Lower{
+    margin:auto;
+    width: 950px;
+    margin-bottom: 2%;
+}
+
+.Lower_Img1{
+    width: 300px;
+    height: 180px;
+
+}
+.Lower_Img2{
+    width: 300px;
+    height: 180px;
+}
+.Lower_Img3{
+    width: 300px;
+    height: 180px;
+
+}
+.Lower_text{
+    color: gray
+}
+
+.img_work{
+    display: flex;
+    justify-content: space-between;
+}
